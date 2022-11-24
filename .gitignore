@@ -8,3 +8,9 @@ TAGS
 config.json
 node_modules/
 package-lock.json
+venv/
+.env
+allure-report/
+allure-results/
+cookiesFile
+tmp/
